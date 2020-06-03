@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1080447753428",
+    "firebase_url": "https://funmov-57459.firebaseio.com",
+    "project_id": "funmov-57459",
+    "storage_bucket": "funmov-57459.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080447753428:android:f24335eb5bf16c21e76f41",
+        "android_client_info": {
+          "package_name": "com.example.funmov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080447753428-oaeh5pceqo13mnougd7egdokfj1a8imk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.funmov",
+            "certificate_hash": "233ee50cf2dbbdd8d0c5ff52fb0ec8e4612637cf"
+          }
+        },
+        {
+          "client_id": "1080447753428-brojb8romjk0fsh3c1ubp7sg7unlse9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ8_wEdq9-Tx6QBHoeadGfcvUT0qFtHT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080447753428-brojb8romjk0fsh3c1ubp7sg7unlse9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
